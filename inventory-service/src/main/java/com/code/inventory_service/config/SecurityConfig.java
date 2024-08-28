@@ -1,4 +1,4 @@
-package com.uncledavecode.inventory_service.config;
+package com.code.inventory_service.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
